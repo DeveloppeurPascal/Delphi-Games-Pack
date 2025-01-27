@@ -55,3 +55,6 @@
 [submodule "Gamolf-FMX-Game-Starter-Kit"]
 	path = Gamolf-FMX-Game-Starter-Kit
 	url = https://github.com/DeveloppeurPascal/Gamolf-FMX-Game-Starter-Kit.git
+[submodule "Bubbleoid-GGJ2025"]
+	path = Bubbleoid-GGJ2025
+	url = https://github.com/DeveloppeurPascal/Bubbleoid-GGJ2025.git
