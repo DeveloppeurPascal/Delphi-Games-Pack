@@ -6,6 +6,10 @@ This repository contains a set of projects in the form of sub-modules. You can d
 
 You can also consult the [other project packs](https://github.com/DeveloppeurPascal?tab=repositories&q=pack&type=&language=&sort=) in [my GitHub account](https://github.com/DeveloppeurPascal), or [the one](https://github.com/DeveloppeurPascal/_AllProjects) that contains them all.
 
+## Use these video games
+
+Visit [the Gamolf website](https://gamolf.fr) to see the list of games available, on which platforms, download them and buy them when they're on sale.
+
 ## Talks and conferences
 
 ### Twitch
@@ -39,6 +43,8 @@ You are generally free to use the contents of this code repository anywhere, pro
 * you mention it in your projects
 * distribute the modifications made to the files supplied in this project under the AGPL license (leaving the original copyright notices (author, link to this repository, license) which must be supplemented by your own)
 * to distribute the source code of your creations under the AGPL license.
+
+If this license doesn't suit your needs (especially for a commercial project) I also offer [standard developer licenses](https://store.developpeur-pascal.fr/en/) and you can always [contact me to discuss](https://developpeur-pascal.fr/nous-contacter.php).
 
 These source codes are provided as is, without warranty of any kind.
 

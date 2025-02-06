@@ -6,6 +6,10 @@ Ce dépôt contient un ensemble de projets sous forme de sous-module. Vous pouve
 
 Vous pouvez aussi consulter [les autres packs de projets](https://github.com/DeveloppeurPascal?tab=repositories&q=pack&type=&language=&sort=) de [mon compte GitHub](https://github.com/DeveloppeurPascal) ou [celui](https://github.com/DeveloppeurPascal/_AllProjects) qui les contient tous.
 
+## Utiliser ces jeux vidéo
+
+Consultez [le site de Gamolf](https://gamolf.fr) pour voir la liste des jeux disponibles, sur quelles plateformes, les télécharger et les acheter quand ils sont en vente.
+
 ## Présentations et conférences
 
 ### Twitch
@@ -39,6 +43,8 @@ Vous êtes globalement libre d'utiliser le contenu de ce dépôt de code n'impor
 * d'en faire mention dans vos projets
 * de diffuser les modifications apportées aux fichiers fournis dans ce projet sous licence AGPL (en y laissant les mentions de copyright d'origine (auteur, lien vers ce dépôt, licence) obligatoirement complétées par les vôtres)
 * de diffuser les codes sources de vos créations sous licence AGPL
+
+Si cette licence ne convient pas à vos besoins (notamment pour un projet commercial) je propose aussi [des licences développeur classiques](https://store.developpeur-pascal.fr) et vous pouvez toujours [me contacter pour en discuter](https://developpeur-pascal.fr/nous-contacter.php).
 
 Ces codes sources sont fournis en l'état sans garantie d'aucune sorte.
 
