@@ -61,3 +61,6 @@
 [submodule "SoapBubbles"]
 	path = SoapBubbles
 	url = https://github.com/DeveloppeurPascal/SoapBubbles.git
+[submodule "Laby10s-LudumDare51"]
+	path = Laby10s-LudumDare51
+	url = https://github.com/DeveloppeurPascal/Laby10s-LudumDare51.git
