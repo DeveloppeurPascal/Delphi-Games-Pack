@@ -31,9 +31,6 @@
 [submodule "CodeRage2018-ChristmasGame"]
 	path = CodeRage2018-ChristmasGame
 	url = https://github.com/DeveloppeurPascal/CodeRage2018-ChristmasGame.git
-[submodule "Colarvest"]
-	path = Colarvest
-	url = https://github.com/DeveloppeurPascal/Colarvest.git
 [submodule "Spooch"]
 	path = Spooch
 	url = https://github.com/DeveloppeurPascal/Spooch.git
