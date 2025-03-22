@@ -22,9 +22,6 @@
 [submodule "Egg-Hunter"]
 	path = Egg-Hunter
 	url = https://github.com/DeveloppeurPascal/Egg-Hunter.git
-[submodule "Sporgloo"]
-	path = Sporgloo
-	url = https://github.com/DeveloppeurPascal/Sporgloo.git
 [submodule "Casse-Briques"]
 	path = Casse-Briques
 	url = https://github.com/DeveloppeurPascal/Casse-Briques.git
