@@ -46,9 +46,6 @@
 [submodule "BoiteAMeuh"]
 	path = BoiteAMeuh
 	url = https://github.com/DeveloppeurPascal/BoiteAMeuh.git
-[submodule "DAD48"]
-	path = DAD48
-	url = https://github.com/DeveloppeurPascal/DAD48.git
 [submodule "Gamolf-FMX-Game-Starter-Kit"]
 	path = Gamolf-FMX-Game-Starter-Kit
 	url = https://github.com/DeveloppeurPascal/Gamolf-FMX-Game-Starter-Kit.git
