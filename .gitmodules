@@ -79,3 +79,6 @@
 [submodule "Zomcave-LudumDare57"]
 	path = Zomcave-LudumDare57
 	url = https://github.com/DeveloppeurPascal/Zomcave-LudumDare57.git
+[submodule "Ok-Ducky"]
+	path = Ok-Ducky
+	url = https://github.com/DeveloppeurPascal/Ok-Ducky.git
