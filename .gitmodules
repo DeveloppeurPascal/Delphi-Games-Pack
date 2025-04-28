@@ -82,3 +82,6 @@
 [submodule "Ok-Ducky"]
 	path = Ok-Ducky
 	url = https://github.com/DeveloppeurPascal/Ok-Ducky.git
+[submodule "Bidioo-v2-Delphi"]
+	path = Bidioo-v2-Delphi
+	url = https://github.com/DeveloppeurPascal/Bidioo-v2-Delphi.git
