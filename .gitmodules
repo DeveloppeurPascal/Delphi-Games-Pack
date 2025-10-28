@@ -91,3 +91,6 @@
 [submodule "SVG-cards"]
 	path = SVG-cards
 	url = https://github.com/DeveloppeurPascal/SVG-cards.git
+[submodule "Koala-Match-3"]
+	path = Koala-Match-3
+	url = https://github.com/DeveloppeurPascal/Koala-Match-3.git
