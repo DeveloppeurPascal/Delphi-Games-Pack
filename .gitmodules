@@ -22,9 +22,6 @@
 [submodule "Casse-Briques"]
 	path = Casse-Briques
 	url = https://github.com/DeveloppeurPascal/Casse-Briques.git
-[submodule "CodeRage2018-ChristmasGame"]
-	path = CodeRage2018-ChristmasGame
-	url = https://github.com/DeveloppeurPascal/CodeRage2018-ChristmasGame.git
 [submodule "Spooch"]
 	path = Spooch
 	url = https://github.com/DeveloppeurPascal/Spooch.git
