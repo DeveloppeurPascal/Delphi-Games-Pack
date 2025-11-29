@@ -97,3 +97,6 @@
 [submodule "ChristmasGameEvolution-CodeRage2025"]
 	path = ChristmasGameEvolution-CodeRage2025
 	url = https://codeberg.org/PatrickPremartin/ChristmasGameEvolution-CodeRage2025.git
+[submodule "Game-Template-For-Delphi-FireMonkey"]
+	path = Game-Template-For-Delphi-FireMonkey
+	url = https://codeberg.org/DeveloppeurPascal/Game-Template-For-Delphi-FireMonkey.git
