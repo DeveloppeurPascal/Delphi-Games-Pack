@@ -97,3 +97,6 @@
 [submodule "Game-Template-For-Delphi-FireMonkey"]
 	path = Game-Template-For-Delphi-FireMonkey
 	url = https://codeberg.org/DeveloppeurPascal/Game-Template-For-Delphi-FireMonkey.git
+[submodule "EggPaq"]
+	path = EggPaq
+	url = https://codeberg.org/Gamolf/EggPaq.git
