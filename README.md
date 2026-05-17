@@ -42,7 +42,7 @@ git submodule init
 git submodule update --remote
 ```
 
-[This repository](https://github.com/DeveloppeurPascal/Delphi-Games-Pack) and all projects are available on [my GitHub account](https://github.com/DeveloppeurPascal).
+[This repository](https://github.com/DeveloppeurPascal/Delphi-Games-Pack) can be downloaded from [my GitHub account](https://github.com/DeveloppeurPascal).
 
 ## License to use this code repository and its contents
 
