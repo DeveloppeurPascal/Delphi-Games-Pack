@@ -22,9 +22,6 @@
 [submodule "Casse-Briques"]
 	path = Casse-Briques
 	url = https://github.com/DeveloppeurPascal/Casse-Briques.git
-[submodule "Spooch"]
-	path = Spooch
-	url = https://github.com/DeveloppeurPascal/Spooch.git
 [submodule "TaquinDXBooks"]
 	path = TaquinDXBooks
 	url = https://github.com/DeveloppeurPascal/TaquinDXBooks.git
@@ -55,9 +52,6 @@
 [submodule "DAD48-LudumDare48"]
 	path = DAD48-LudumDare48
 	url = https://github.com/DeveloppeurPascal/DAD48-LudumDare48.git
-[submodule "Sporgloo-KenneyJam2023"]
-	path = Sporgloo-KenneyJam2023
-	url = https://github.com/DeveloppeurPascal/Sporgloo-KenneyJam2023.git
 [submodule "Colarvest-LudumDare52"]
 	path = Colarvest-LudumDare52
 	url = https://github.com/DeveloppeurPascal/Colarvest-LudumDare52.git
