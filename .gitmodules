@@ -97,3 +97,6 @@
 [submodule "Sporgloo-KenneyJam2023"]
 	path = Sporgloo-KenneyJam2023
 	url = https://codeberg.org/Gamolf/Sporgloo-KenneyJam2023.git
+[submodule "Gamolf-FMX-Game-Starter-Kit"]
+	path = Gamolf-FMX-Game-Starter-Kit
+	url = https://codeberg.org/DeveloppeurPascal/Gamolf-FMX-Game-Starter-Kit.git
