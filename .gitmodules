@@ -97,3 +97,6 @@
 [submodule "Gamolf-FMX-Game-Starter-Kit"]
 	path = Gamolf-FMX-Game-Starter-Kit
 	url = https://codeberg.org/DeveloppeurPascal/Gamolf-FMX-Game-Starter-Kit.git
+[submodule "Digikoo-v2-Delphi"]
+	path = Digikoo-v2-Delphi
+	url = https://codeberg.org/Gamolf/Digikoo-v2-Delphi.git
