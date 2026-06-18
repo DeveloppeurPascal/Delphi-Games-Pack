@@ -1,9 +1,6 @@
 [submodule "Champter"]
 	path = Champter
 	url = https://github.com/DeveloppeurPascal/Champter.git
-[submodule "Digikoo-v2-Delphi"]
-	path = Digikoo-v2-Delphi
-	url = https://github.com/DeveloppeurPascal/Digikoo-v2-Delphi.git
 [submodule "Ploumtris-KenneyJam2024"]
 	path = Ploumtris-KenneyJam2024
 	url = https://github.com/DeveloppeurPascal/Ploumtris-KenneyJam2024.git
