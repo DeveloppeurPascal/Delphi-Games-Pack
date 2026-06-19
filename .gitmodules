@@ -22,15 +22,6 @@
 [submodule "TaquinDXBooks"]
 	path = TaquinDXBooks
 	url = https://github.com/DeveloppeurPascal/TaquinDXBooks.git
-[submodule "TetrisLike"]
-	path = TetrisLike
-	url = https://github.com/DeveloppeurPascal/TetrisLike.git
-[submodule "WhereIsBernie-GGJ21"]
-	path = WhereIsBernie-GGJ21
-	url = https://github.com/DeveloppeurPascal/WhereIsBernie-GGJ21.git
-[submodule "BoiteAMeuh"]
-	path = BoiteAMeuh
-	url = https://github.com/DeveloppeurPascal/BoiteAMeuh.git
 [submodule "Bubbleoid-GGJ2025"]
 	path = Bubbleoid-GGJ2025
 	url = https://github.com/DeveloppeurPascal/Bubbleoid-GGJ2025.git
@@ -67,9 +58,6 @@
 [submodule "Ok-Ducky"]
 	path = Ok-Ducky
 	url = https://github.com/DeveloppeurPascal/Ok-Ducky.git
-[submodule "Bidioo-v2-Delphi"]
-	path = Bidioo-v2-Delphi
-	url = https://github.com/DeveloppeurPascal/Bidioo-v2-Delphi.git
 [submodule "SVG-cards"]
 	path = SVG-cards
 	url = https://github.com/DeveloppeurPascal/SVG-cards.git
